@@ -6,7 +6,6 @@ s.bgcolor("black")
 t.penup()
 t.goto(-50,60)
 t.pendown()
-#clcoding.com
 t.color("#00adef")
 t.begin_fill()
 t.goto(100,100)
